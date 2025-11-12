@@ -88,13 +88,13 @@ export const Projects = () => {
                 </div>
 
                   <div className="flex gap-4 pt-4 border-t border-border">
-                    <a
+                    {<a
                       href={project.link}
                       className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors"
                     >
                       <ExternalLink size={16} />
                       Live Demo
-                    </a>
+                    </a>}
                     <a
                       href={project.github}
                       className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors"

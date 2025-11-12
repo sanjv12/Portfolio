@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Mail, Linkedin, Github, Send } from "lucide-react";
+import { Mail, Linkedin, Github, Send, PhoneCall, Code } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
@@ -52,6 +52,12 @@ export const Contact = () => {
       label: "GitHub",
       // value: "github.com/sanjeevs",
       href: "https://github.com/sanjv12",
+    },
+    {
+      icon: Code,
+      label: "Leetcode",
+      // value: "github.com/sanjeevs",
+      href: "https://leetcode.com/sanjv12",
     },
   ];
 
