@@ -38,14 +38,14 @@ export const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      // value: "Sanjeevkanthsk12@gmail.com",
+      value: "Sanjeevkanthsk12@gmail.com",
       href: "mailto:Sanjeevkanthsk12@gmail.com",
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
       // value: "linkedin.com/in/sanjv12",
-      href: "https://linkedin.com/in/sanjeevs",
+      href: "https://linkedin.com/in/sanjv12",
     },
     {
       icon: Github,
