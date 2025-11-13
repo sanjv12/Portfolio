@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Project Hub",
     description:
-      "Developed a web application that allows users to add their project details and links to their accounts. Enabled users to search for other users and view their projects. Made each user’s project portfolio accessible across the internet using their username.",
+      "A web application that allows users to add their project details and links to their accounts. Enabled users to search for other users and view their projects. Made each user’s project portfolio accessible across the internet using their username.",
     tech: [ "Springboot","ReactJS", "Java","HTML","CSS","Javascript"],
     link: "#",
     github: "#",
@@ -13,7 +13,7 @@ const projects = [
   {
     title: "Fileshare Website",
     description:
-      "Developed a file-sharing platform that allows users to upload and download files without authentication, using a user-provided key as input for file access.",
+      "A file-sharing platform that allows users to upload and download files without authentication, using a user-provided key as input for file access.",
     tech: ["Flask", "SQLite", "Python","HTML","CSS","Javascript"],
     link: "#",
     github: "#",
@@ -21,7 +21,7 @@ const projects = [
   {
     title: "Sign Language Conversation Tool",
     description:
-      "Developed a Sign Language conversation tool that convertes American Sign Language to text and text to Sign Language. Utilized a Machine Learning Model to recogonize sign language and convert it to corresponding letter.",
+      "A Sign Language conversation tool that convertes American Sign Language to text and text to Sign Language. Utilized a Machine Learning Model to recogonize sign language and convert it to corresponding letter.",
     tech: ["Flask", "SQLite", "Python","HTML","CSS","Javascript","TensorFlow"],
     link: "#",
     github: "#",
@@ -29,7 +29,7 @@ const projects = [
   {
     title: "Library Management System",
     description:
-      "Developed a Library Management System with distinct user and admin portals to streamline library operations. Enabled users to browse books, place requests, and manage returns, while allowing admins to add books, approve or deny requests, and manage issued items",
+      "A Library Management System with distinct user and admin portals to streamline library operations. Enabled users to browse books, place requests, and manage returns, while allowing admins to add books, approve or deny requests, and manage issued items",
     tech: ["Flask", "SQLite", "Python","HTML","CSS","Javascript"],
     link: "#",
     github: "#",
@@ -37,7 +37,7 @@ const projects = [
   {
     title: "Chatbot for Prakruti Assessment",
     description:
-      "Developed a web-based chatbot interface for Prakruti assessment, enabling users to interactively receive personalized health insights. Built an algorithm to analyze user responses and provide tailored recommendations on food, lifestyle adjustments, and health concerns, with an emphasis on privacy and data security",
+      "A web-based chatbot interface for Prakruti assessment, enabling users to interactively receive personalized health insights. Built an algorithm to analyze user responses and provide tailored recommendations on food, lifestyle adjustments, and health concerns, with an emphasis on privacy and data security",
     tech: ["Flask", "SQLite", "Python","HTML","CSS","Javascript"],
     link: "#",
     github: "#",
